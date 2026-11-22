@@ -1,0 +1,21 @@
+
+# Python virtual environment
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Uploaded user PDFs and temporary files
+uploads/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# IDE and system files
+.vscode/
+.DS_Store
